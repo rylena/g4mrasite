@@ -20,6 +20,7 @@ export const members: Member[] = [
     role: "leader / strategy",
     bio: "Leads G4mra's event planning, live CTF calls, and practice direction so the team keeps pressure on the right targets.",
     specialties: ["ctf strategy", "web", "team ops"],
+    image: "./assets/members/Z 4 f a r a n.png",
     links: [{ type: "github", label: "GitHub", href: "https://github.com/Z4faran" }],
     palette: "ember",
   },
