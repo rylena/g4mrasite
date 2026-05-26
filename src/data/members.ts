@@ -21,7 +21,10 @@ export const members: Member[] = [
     bio: "Leads G4mra's event planning, live CTF calls, and practice direction so the team keeps pressure on the right targets.",
     specialties: ["ctf strategy", "web", "team ops"],
     image: "./assets/members/Z 4 f a r a n.png",
-    links: [{ type: "github", label: "GitHub", href: "https://github.com/Z4faran" }],
+    links: [
+      { type: "github", label: "GitHub", href: "https://github.com/MAZEN9904" },
+      { type: "linkedin", label: "LinkedIn", href: "https://www.linkedin.com/in/mazen-magdy-4700482a4/" },
+    ],
     palette: "ember",
   },
   {

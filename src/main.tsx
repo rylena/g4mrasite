@@ -678,6 +678,7 @@ function App() {
         <footer className="site-footer">
           <img src="./assets/g4mra-logo.png" alt="" />
           <span>G4mra</span>
+          <span>made by Rylen Anil</span>
           <a href={links.ctftime} target="_blank" rel="noreferrer">
             ctftime
           </a>

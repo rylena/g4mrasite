@@ -23,7 +23,7 @@ export type CtftimeMember = {
   href: string;
 };
 
-export const ctftimeGeneratedAt = "2026-05-26T10:39:24.862Z";
+export const ctftimeGeneratedAt = "2026-05-26T11:37:30.821Z";
 
 export const teamProfile = {
   "id": 424985,
