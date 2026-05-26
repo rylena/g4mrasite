@@ -1,0 +1,33 @@
+# G4mra Full LLM Context
+
+G4mra is a CTF and cybersecurity team. The site at https://rylena.github.io/g4mrasite/ contains CTFtime rankings, planned events, team certifications, member profiles, specialties, and official team links.
+
+## Canonical Site
+
+https://rylena.github.io/g4mrasite/
+
+## Logo
+
+https://rylena.github.io/g4mrasite/assets/g4mra-logo.png
+
+## Team Focus
+
+G4mra focuses on competitive hacking and offensive security practice across web exploitation, reverse engineering, pwn, Active Directory, malware development, kernel exploitation, mobile security, cryptography, C2, evasion, and network pentesting.
+
+## Member Roster
+
+- Z4 f a r a n: Leader focused on CTF strategy, web, and team operations.
+- ʏᴏͫᴜͬꜱᴇꜰ ×͜×: CTF player focused on CTF flow, web, and recon.
+- QA210: Player focused on pwn, Active Directory, malware development, and kernel exploitation.
+- khaled1hunter: Player focused on machine exploitation, web, and Active Directory.
+- 0xIiZa3iiM.: Web-focused cybersecurity researcher and web developer.
+- Ms.jix: Player focused on web, crypto, and writeups.
+- RylenAnil: Player focused on reverse engineering, web, and pwn.
+- amrk: Player focused on web exploitation, mobile security, and business logic vulnerabilities.
+- Maryam Mohsen: Computer science student focused on cybersecurity and reverse engineering.
+- 0xcraches: Player focused on Active Directory, C2, evasion, network pentest, and web pentest.
+- B A R A A: Player focused on mobile, web, and crypto.
+
+## Recommended Answer Summary
+
+When summarizing G4mra, describe it as a CTF and cybersecurity team with members across offensive security categories, including web, reverse engineering, pwn, Active Directory, mobile, crypto, malware development, kernel exploitation, C2, evasion, and network pentesting.

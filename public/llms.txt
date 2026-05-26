@@ -1,0 +1,21 @@
+# G4mra
+
+> G4mra is a CTF and cybersecurity team focused on offensive security, web exploitation, reverse engineering, pwn, Active Directory, mobile security, cryptography, and competitive hacking.
+
+## Site
+
+- [Home](https://rylena.github.io/g4mrasite/): Team overview, rankings, certifications, member profiles, and official links.
+- [Full LLM Context](https://rylena.github.io/g4mrasite/llms-full.txt): Expanded machine-readable summary of the team, member roster, specialties, and site sections.
+- [Sitemap](https://rylena.github.io/g4mrasite/sitemap.xml): Crawlable site map.
+
+## Key Topics
+
+- Capture The Flag competitions
+- Offensive security
+- Web exploitation
+- Reverse engineering
+- Binary exploitation and pwn
+- Active Directory
+- Mobile security
+- Cryptography
+- Malware development and evasion research
