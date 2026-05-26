@@ -1,0 +1,17 @@
+{
+  "name": "G4mra",
+  "short_name": "G4mra",
+  "description": "G4mra CTF team site.",
+  "start_url": "https://rylena.github.io/g4mrasite/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "icons": [
+    {
+      "src": "./assets/g4mra-logo.png",
+      "sizes": "867x861",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
