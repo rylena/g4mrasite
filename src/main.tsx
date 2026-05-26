@@ -133,17 +133,9 @@ function RankBadge({ place }: { place: number }) {
   return <span className={className}>#{place}</span>;
 }
 
-type IconType = "discord" | Member["links"][number]["type"];
+type IconType = Member["links"][number]["type"];
 
 function SocialIcon({ type }: { type: IconType }) {
-  if (type === "discord") {
-    return (
-      <svg aria-hidden="true" viewBox="0 0 24 24">
-        <path d="M8.2 8.6c1.1-.5 2.2-.7 3.8-.7s2.8.2 3.8.7l.3-.7c1.6.3 2.8.9 3.8 1.8.2 3 .1 5.7-1.3 8.1-1.3 1-2.6 1.5-4.1 1.8l-.9-1.5c.5-.2 1-.4 1.5-.7-1 .4-2 .6-3.1.6s-2.1-.2-3.1-.6c.5.3 1 .5 1.5.7l-.9 1.5c-1.5-.3-2.8-.9-4.1-1.8-1.4-2.4-1.5-5.1-1.3-8.1 1-.9 2.2-1.5 3.8-1.8l.4.7Zm1.7 6.3c.7 0 1.3-.7 1.3-1.5s-.6-1.5-1.3-1.5-1.3.7-1.3 1.5.6 1.5 1.3 1.5Zm4.2 0c.7 0 1.3-.7 1.3-1.5s-.6-1.5-1.3-1.5-1.3.7-1.3 1.5.6 1.5 1.3 1.5Z" />
-      </svg>
-    );
-  }
-
   return (
     <svg aria-hidden="true" viewBox="0 0 24 24">
       <path d="M5.2 8.8h3.3v10H5.2v-10Zm1.7-4.7c1 0 1.8.8 1.8 1.7s-.8 1.7-1.8 1.7-1.8-.8-1.8-1.7.8-1.7 1.8-1.7Zm3.8 4.7h3.1v1.4h.1c.4-.8 1.5-1.7 3-1.7 3.2 0 3.8 2.1 3.8 4.8v5.5h-3.3v-4.9c0-1.2 0-2.7-1.6-2.7s-1.9 1.3-1.9 2.6v5h-3.3v-10Z" />
@@ -230,9 +222,6 @@ function MemberLinks({ member, profile = false }: { member: Member; profile?: bo
 function SocialLinks() {
   return (
     <div className="social-links" aria-label="Social links">
-      <a className="icon-link" href={links.discord} target="_blank" rel="noreferrer" aria-label="Discord">
-        <SocialIcon type="discord" />
-      </a>
       <a className="icon-link" href={links.linkedin} target="_blank" rel="noreferrer" aria-label="LinkedIn">
         <SocialIcon type="linkedin" />
       </a>
