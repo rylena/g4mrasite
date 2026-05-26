@@ -761,10 +761,6 @@ img {
   will-change: transform;
 }
 
-.cert-panel:hover .cert-track {
-  animation-play-state: paused;
-}
-
 .cert-group {
   display: flex;
   align-items: center;
@@ -1548,6 +1544,20 @@ img {
     opacity: 1;
     transform: translateY(0) scale(1);
     filter: brightness(1);
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .cert-panel:hover .cert-track {
+    animation-play-state: paused;
+  }
+}
+
+@media (hover: none), (pointer: coarse), (max-width: 980px) {
+  .cert-panel:hover .cert-track,
+  .cert-panel:active .cert-track,
+  .cert-panel:focus-within .cert-track {
+    animation-play-state: running;
   }
 }
 
