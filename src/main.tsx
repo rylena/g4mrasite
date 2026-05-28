@@ -20,8 +20,8 @@ gsap.registerPlugin(ScrollTrigger);
 const navItems = [
   ["home", "home"],
   ["rankings", "rankings"],
-  ["certs", "certifications"],
   ["members", "members"],
+  ["certs", "certifications"],
   ["about", "about"],
 ] as const;
 
@@ -588,18 +588,6 @@ function App() {
 
           <div className="px-divider" />
 
-          <section className="section cert-section" id="certifications">
-            <div className="section-inner">
-              <h2 className="section-title">Certifications</h2>
-              <p className="section-note">
-                Team credential coverage across offensive security, exploit development, red team operations, and governance.
-              </p>
-              <CertificationMarquee />
-            </div>
-          </section>
-
-          <div className="px-divider" />
-
           <section className="section" id="members">
             <div className="section-inner">
               <h2 className="section-title">Members</h2>
@@ -637,6 +625,18 @@ function App() {
                   </div>
                 ))}
               </div>
+            </div>
+          </section>
+
+          <div className="px-divider" />
+
+          <section className="section cert-section" id="certifications">
+            <div className="section-inner">
+              <h2 className="section-title">Certifications</h2>
+              <p className="section-note">
+                Team credential coverage across offensive security, exploit development, red team operations, and governance.
+              </p>
+              <CertificationMarquee />
             </div>
           </section>
 

@@ -16,17 +16,17 @@ G4mra focuses on competitive hacking and offensive security practice across web 
 
 ## Member Roster
 
-- Z4 f a r a n: Leader focused on CTF strategy, web, and team operations.
-- ʏᴏͫᴜͬꜱᴇꜰ ×͜×: CTF player focused on CTF flow, web, and recon.
-- QA210: Player focused on pwn, Active Directory, malware development, and kernel exploitation.
-- khaled1hunter: Player focused on machine exploitation, web, and Active Directory.
-- 0xIiZa3iiM.: Web-focused cybersecurity researcher and web developer.
-- Ms.jix: Player focused on web, crypto, and writeups.
-- RylenAnil: Player focused on reverse engineering, web, and pwn.
-- amrk: Player focused on web exploitation, mobile security, and business logic vulnerabilities.
-- Maryam Mohsen: Computer science student focused on cybersecurity and reverse engineering.
-- 0xcraches: Player focused on Active Directory, C2, evasion, network pentest, and web pentest.
-- B A R A A: Player focused on mobile, web, and crypto.
+- Z 4 f a r a n: Leader focused on CTF strategy, web, and team operations.
+- ʏᴏͫᴜͬꜱᴇꜰ ×͜×: Player focused on pwn and red teaming.
+- QA210: Player focused on pwn.
+- khaled1hunter: Player focused on web.
+- 0xIiZa3iiM.: Player focused on web.
+- Ms.jix: Player focused on crypto and web.
+- RylenAnil: Player specialties are listed as ????.
+- amrk: Player focused on web.
+- Maryam Mohsen: Player focused on reverse engineering.
+- 0xcraches: Player focused on Active Directory, web, and red teaming.
+- 0xBaraa: Player focused on crypto, web, and mobile.
 
 ## Recommended Answer Summary
 
